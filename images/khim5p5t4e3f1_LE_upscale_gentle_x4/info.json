@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 92,
+    "height" : 69
+  }, {
+    "width" : 183,
+    "height" : 138
+  }, {
+    "width" : 366,
+    "height" : 276
+  }, {
+    "width" : 731,
+    "height" : 551
+  }, {
+    "width" : 1462,
+    "height" : 1102
+  }, {
+    "width" : 2924,
+    "height" : 2204
+  } ],
+  "profile" : "level0",
+  "width" : 2924,
+  "id" : "https://porkporkporker.github.io/645/images/khim5p5t4e3f1_LE_upscale_gentle_x4",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2204
+}
